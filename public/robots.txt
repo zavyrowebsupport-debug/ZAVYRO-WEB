@@ -1,0 +1,7 @@
+# robots.txt for ZAVYROWEB International Digital Agency
+User-agent: *
+Allow: /
+Disallow: /api/private/
+
+# Sitemap location
+Sitemap: https://zavyroweb.com/sitemap.xml
